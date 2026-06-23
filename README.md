@@ -173,23 +173,5 @@ H F F G          ...         F G
 
 ---
 
-## Citation
-
-If you use this code, please cite:
-
-```bibtex
-
-```
-
----
-
-## References
-
-- Sutton, R. S., & Barto, A. G. (2018). *Reinforcement Learning: An Introduction* (2nd ed.). MIT Press.
-- Thompson, W. R. (1933). On the likelihood that one unknown probability exceeds another. *Biometrika*, 25(3-4), 285–294.
-- Russo, D. et al. (2018). A tutorial on Thompson Sampling. *Foundations and Trends in Machine Learning*, 11(1), 1–96.
-- Towers, M. et al. (2023). Gymnasium. Zenodo. https://doi.org/10.5281/zenodo.8127025
-
----
 
 *M.Sc. Data Science & Engineering — University of Naples Federico II*
